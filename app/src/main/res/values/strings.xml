@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Number Guess</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="let_try">Try</string>
+    <string name="result">Congratulations! Try Again!</string>
+    <string name="up">UP</string>
+    <string name="down">DOWN</string>
+    <string name="between">(0 - 100)</string>
+    <string name="newGame">NEW GAME!</string>
+    <string name="ok">OK</string>
+    <string name="numberChr">Please, entry number</string>
+    <string name="numberArray">Last Entries : </string>
+    <string name="leftTry">Try Count : </string>
+    <string name="lost">Right Over! Try Again!</string>
+    <string name="notFound">not found = </string>
+    <string name="arrowWarning">you can use arrows</string>
+    <string name="useBar">Use Bar for number guess</string>
+    <string name="chooseRange">Please, choose value range</string>
+    <string name="value1">0 - 250</string>
+    <string name="value2">0 - 5.000</string>
+    <string name="value3">0 - 1.000.000</string>
+    <string name="start">START</string>
+    <string name="newHighScore">New High Score = </string>
+    <string name="highScores">High Scores</string>
+
+
+
+</resources>

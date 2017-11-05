@@ -1,0 +1,28 @@
+<resources>
+
+    <string name="action_settings">Ayarlar</string>
+    <string name="app_name">Sayı Tahmini</string>
+    <string name="hello_world">Merhaba Dünya!</string>
+    <string name="let_try">Dene</string>
+    <string name="result">Tebrikler! Yeniden Oyna!</string>
+    <string name="up">Yukarı</string>
+    <string name="down">Aşağı</string>
+    <string name="between">(0 - 100)</string>
+    <string name="newGame">YENİ OYUN!</string>
+    <string name="ok">TAMAM</string>
+    <string name="numberChr">Lütfen sayı giriniz!</string>
+    <string name="numberArray">Son Tahminler : </string>
+    <string name="leftTry">Deneme : </string>
+    <string name="lost">Hakkın Bitti. Yeniden Dene!</string>
+    <string name="notFound">bulunamayan sayı = </string>
+    <string name="arrowWarning">Oklarla ince ayar yapabilirsin!</string>
+    <string name="useBar">Barı sağa sola kaydır ve tahmin yap</string>
+    <string name="chooseRange">Lütfen değer aralığını seçiniz</string>
+    <string name="value1">0 - 250</string>
+    <string name="value2">0 - 5.000</string>
+    <string name="value3">0 - 1.000.000</string>
+    <string name="start">BAŞLA</string>
+    <string name="newHighScore">Yeni Yüksek Skor = </string>
+    <string name="highScores">Yüksek Skorlar</string>
+
+</resources>
